@@ -1,0 +1,6 @@
+_background_
+car
+drivable Area
+golf cart
+person
+slidewalk

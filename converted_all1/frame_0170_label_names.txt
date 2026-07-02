@@ -1,0 +1,7 @@
+_background_
+drivable Area
+golf cart
+parking
+slidewalk
+traffic cone
+vegetation
